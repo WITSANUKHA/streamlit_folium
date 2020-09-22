@@ -5,7 +5,7 @@ import folium as fo
 from streamlit_folium import folium_static
 import geopandas as gp
 
-st.title('Streamlit with Folium Witsanu')
+st.title('Streamlit with Folium')
 
 """
 ## An easy way to create a website using Python
